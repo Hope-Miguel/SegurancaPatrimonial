@@ -261,7 +261,7 @@ export default function FormularioSeguranca() {
               <div className="mt-8 pt-8 border-t border-blue-200 space-y-3">
                 <div className="flex items-center gap-2">
                   <Phone className="w-5 h-5 text-blue-500" />
-                  <span className="text-gray-700"><strong>(11) 3000-0000</strong></span>
+                  <span className="text-gray-700"><strong>(244) 9000-0000</strong></span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail className="w-5 h-5 text-blue-500" />
@@ -269,7 +269,7 @@ export default function FormularioSeguranca() {
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="w-5 h-5 text-blue-500" />
-                  <span className="text-gray-700"><strong>São Paulo, SP</strong></span>
+                  <span className="text-gray-700"><strong>Luanda, Angola</strong></span>
                 </div>
               </div>
             </div>
